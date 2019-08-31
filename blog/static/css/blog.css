@@ -44,3 +44,27 @@ h1, h2, h3, h4 {
 .post h1 a, .post h1 a:visited {
     color: #000000;
 }
+
+.yura div{
+    
+}
+.yura h1{
+  
+    text-align: center;
+}
+
+
+.yura a {
+  
+    -webkit-transition:0.3s;
+	-moz-transition:0.3s;
+	-o-transition:0.3s;
+	transition:0.3s;
+    cursor:pointer;
+    margin-left: 700px;
+    color: rebeccapurple;
+}
+
+.bottom-menu{
+    background-color: #ff9400;
+}
